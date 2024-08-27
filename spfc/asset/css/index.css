@@ -1,0 +1,19 @@
+<style>
+    .welcome-section {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100vh;
+        padding-left: 20px; /* Tambahkan padding untuk lebih ke kiri */
+    }
+    .welcome-text {
+        font-size: 24px;
+        font-weight: bold;
+        margin-left: -50px; /* Memindahkan teks lebih ke kiri */
+    }
+    .welcome-image {
+        max-width: 40%; /* Menyesuaikan ukuran gambar */
+        height: auto;
+        margin-right: -50px; /* Memindahkan gambar lebih ke kanan */
+    }
+</style> 
